@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+        <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <title>Ethan Troy Carrick - Portfolio</title>
+                <style>
+                        h2 {
+                                font-size: 1.8em;
+                                padding-bottom: 10px;
+                                margin-bottom: 20px;
+                        }
+                        
+                        section {
+            margin: 30px 0;
+            padding: 20px;
+            background: #f9f9f9;
+            border-radius: 10px;
+        }
+
+                h3, h1, div {
+                        color: white;
+                }
+
+                header {
+                        background-color: gray;
+                }
+
+                .links {
+                        text-align: center;
+                }
+
+
+                </style>
+        </head>
+
+        <body>
+                <!-- Header Section -->
+                <section>
+                <header>
+                        <div>
+                                <img src="images/me.jpg" alt="Picture of me">
+                        </div>
+                        <h1>Ethan Troy Carrick</h1>
+                        <h3>Email: ST10446072@VCConnect.edu.za  |  Phone: +27 79 493 6649</h3>
+                </header>
+                </section>
+
+                <!-- About Me -->
+                <section>
+                <h2>About Me</h2>
+                <p>I am a first year student at Varsity College. I have experience in coding and can perfrom multiple coding languages. I enjoy working in teams rather than alone as I feel that a great team of minds can achieve 
+                something greater than just a single mind. I enjoy the leadership role and was nominated class rep in my first year at Varsity. I hope to keep imporving my coding skills so I can one day innovate at a scale that can benefit the coding community.</p>
+                </section>
+                
+                <!-- Education -->
+                <section>
+                <h2>Education</h2>
+                <ol>
+                        <li>Current course: Higher Certificate in Mobile Application and Web Development (HMAW0501) <br>
+                            Key Sujects: Web Development, Principles of UI and UX Design, Work Integrated Learning, Mobile App Scripting
+                        </li>
+                        <li>Previous Education: Matriculated from Summerhill International College</li>
+                </ol>
+                </section>
+
+                <!-- Skills -->
+                <section>
+                <h2>Skills</h2>
+                <ul>
+                        <li>Principles of UI/UX Design</li>
+                        <li>Mobile Application Development (Kotlin and React Native)</li>
+                        <li>Web Development(HTML, CSS, JavaScript)</li>
+                </ul>
+                </section>
+
+                <!-- Projects -->
+                <section>
+                <h2>Projects</h2>
+                <h3>History App</h3>
+                <p>Developed a history app that allows the user to choose an age and view a person in history who died at that age.</p>
+                <a href="https://github.com/VCSTDN/imad-assignment-1-ST10446072">View Project</a>
+
+                <h3>Tomogachi App</h3>
+                <p>Developed a tomogachi app that allows the user to feed and look after a virtual pet.</p>
+                <a href="https://github.com/VCSTDN/imad-assignment-2-ST10446072">View Project</a>
+                </section>
+
+                <!-- Achievements and Awards -->
+                <section>
+                        <h2>Achievements and Awards</h2>
+                        <p>Completed academic semester with full distinctions</p>
+                        <p>A* in Computer Scrience</p>
+                        <p>Highest overall mark in Physics</p>
+                </section>
+
+                <!-- Languages -->
+                <section>
+                        <h2>Languages</h2>
+                        <p>English</p>
+                        <p>German</p>
+                        <p>Afrikaans</p>
+                        <p>Arabic</p>
+                </section>
+                
+                <!-- Interests and Hobbies -->
+                <section>
+                        <h2>Interests and Hobbies</h2>
+                        <p>Gaming</p>
+                        <p>Cars</p>
+                        <p>History</p>
+                        <p>Looking after stray cats</p>
+                </section>
+
+                <!-- Social Links-->
+                <div class="links">
+                <a href="https://www.youtube.com/@wolfthorn6793">YouTube</a>
+                <a href="https://github.com/VCSTDN">GitHub</a>
+                </div>
+        </body>
+
+</html>
